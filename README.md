@@ -1,1 +1,1 @@
-# powerbi-dashboard
+# TechnoEdge sales analysis dashboard using power bi
